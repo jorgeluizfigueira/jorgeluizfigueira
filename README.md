@@ -22,8 +22,17 @@
 
   
 <Br>
+<h1>Some of my Projects! 🎨</h1>
 <Br>
-<Br>
+ 
+
+  
+ <a href="https://github.com/jorgeluizfigueira/tiktok-hits-analysis/blob/main/TikTok%20Hits%20Analysis.ipynb">TikTok Hits Analysis</a>
+  
+Project Description: This project consists to understand if there are patterns in songs that are successful in the short video sharing app, TikTok.
+
+Main Techiniques: Data Extraction, Analysis and Visualization.
+***
 
 ### Thank You!😉 
 
@@ -43,17 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
- 
 
-  
- <a href="https://github.com/daianeklein/bootcamp-Alura/blob/main/Desafio-Modulo4.ipynb">Time Series - COVID-19</a>
-  
-Project Description: This project consists of analyzing COVID-19 contamination in Brazil and how Amazonas state was different from other brazilian states.
-
-Main Techiniques: Data Analysis, Time Series techiniques (as decomposition Time Series, Stationarity test, autocorrelation, etc.). Holt Winters, ARIMA and Prophet algorithms.
-***
 
 -->
