@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Jorge Luiz Figueira<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi, I'm Jorge Luiz Figueira<a></h1>
 <Br>
 <h1>About Me</h1>
 
