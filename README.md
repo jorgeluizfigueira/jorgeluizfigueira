@@ -27,7 +27,14 @@
  
 
   
- <a href="https://github.com/jorgeluizfigueira/tiktok-hits-analysis/blob/main/TikTok%20Hits%20Analysis.ipynb">TikTok Hits Analysis</a>
+<a href="https://github.com/jorgeluizfigueira/letscode-diversidadetech">Diversidade Tech - Let's Code from Ada</a>
+  
+Description: This repository consists of grouping the projects developed during the Data Analysis training of the Diversidade Tech Program, offered in partnership by <a href="https://letscode.com.br/">Let's Code from Ada</a> and <a href="https://suzano.com.br/">Suzano</a>.
+
+Main Techiniques: Programming Techniques, Data Analysis, Data Visualization with PowerBi.
+***
+  
+<a href="https://github.com/jorgeluizfigueira/tiktok-hits-analysis/blob/main/TikTok%20Hits%20Analysis.ipynb">TikTok Hits Analysis</a>
   
 Project Description: This project consists to understand if there are patterns in songs that are successful in the short video sharing app, TikTok.
 
